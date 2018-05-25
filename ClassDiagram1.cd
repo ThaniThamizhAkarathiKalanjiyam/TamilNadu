@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TamilNadu.tnDateTime">
+    <Position X="0.5" Y="1.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIkAAAFAAQAAAUABIAEAAAAAAAAAAgUAQEAAAAIQABE=</HashCode>
+      <FileName>tnDateTime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TamilNadu.TamilYear" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAQAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>tnDateTime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TamilNadu.TamilMonth" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQgAAAA=</HashCode>
+      <FileName>tnDateTime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TamilNadu.TamilPeruPoluthu" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAABAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>tnDateTime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TamilNadu.YearInfo" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAACAAAAABAAA=</HashCode>
+      <FileName>tnDateTime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="TamilNadu.Eras" Collapsed="true">
+    <Position X="3.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>tnDateTime.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

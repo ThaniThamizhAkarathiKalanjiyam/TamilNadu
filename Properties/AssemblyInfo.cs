@@ -5,13 +5,17 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Kaveri_DateTime")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("தனித்தமிழகராதிக்களஞ்சியம்")]
+[assembly: AssemblyDescription(
+@"தனித்தமிழகராதிக்களஞ்சியம் (விண்டோசுப் பதிப்பு)
+உலகைத் தமிழில் செய்வோம் வாரீர்!
+நிரலர்           : பிச்சைமுத்து
+")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Kaveri_DateTime")]
-[assembly: AssemblyCopyright("Copyright ©  2018")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCompany("https://thanithamizhakarathikalanjiyam.github.io/")]
+[assembly: AssemblyProduct("ThaniThamizhAkarathiKalanjiyam 2018")]
+[assembly: AssemblyCopyright("https://groups.yahoo.com/neo/groups/isaiyini/info")]
+[assembly: AssemblyTrademark("None")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 
@@ -32,5 +36,6 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("2.8.6.1")]
+[assembly: AssemblyFileVersion("2.8.6.1")]
+[assembly: log4net.Config.XmlConfigurator(Watch = true)]
